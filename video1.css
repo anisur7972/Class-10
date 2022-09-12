@@ -1,0 +1,169 @@
+.heading-two {
+    text-align: center;
+    background-color: green;
+    color: #fff;
+    padding: 10px;
+}
+/* List of inline Css Start  */
+.image{
+    width: 300px;
+    height: 300px;
+}
+.anchor-tag{
+    background-color: blueviolet;
+    color: #fff;
+    
+}
+b{
+    background-color: rgb(43, 226, 89);
+    color: #fff;
+}
+i{
+    background-color: rgb(43, 61, 226);
+    color: #fff;
+}
+span{
+    background-color: rgb(226, 43, 113);
+    color: #fff;
+}
+sub{
+    background-color: rgb(226, 43, 43);
+    color: #fff;
+}
+sup{
+    background-color: rgb(43, 226, 119);
+    color: #fff;
+}
+input{
+    background-color: #ddd;
+    color: #fff;
+}
+strong{
+    background-color: tomato;
+    color: #fff;
+}
+q{
+    background-color: rgb(255, 71, 163);
+    color: #fff;
+}
+small{
+    background-color: rgb(19, 211, 108);
+    color: #fff;
+}
+big{
+    background-color: rgb(255, 71, 163);
+    color: #fff;
+}
+em{
+    background-color: rgb(241, 91, 21);
+    color: #fff;
+}
+button{
+    background-color: rgb(175, 255, 71);
+    color: #fff;
+}
+br{
+    background-color: rgb(175, 255, 71);
+    color: #fff;
+}
+/* List of inline Css End */
+/* List of Block Css Start */
+address{
+    background-color: blueviolet;
+    color: #fff;
+    
+}
+aside{
+    background-color: rgb(43, 226, 89);
+    color: #fff;
+}
+article{
+    background-color: rgb(43, 61, 226);
+    color: #fff;
+}
+blockquote{
+    background-color: rgb(226, 43, 113);
+    color: #fff;
+}
+div{
+    background-color: rgb(226, 43, 43);
+    color: #fff;
+}
+dd{
+    background-color: rgb(43, 226, 119);
+    color: #fff;
+}
+dt{
+    background-color: #ddd;
+    color: #fff;
+}
+dl{
+    background-color: tomato;
+    color: #fff;
+}
+figcaption{
+    background-color: rgb(255, 71, 163);
+    color: #fff;
+}
+figure{
+    background-color: rgb(19, 211, 108);
+    color: #fff;
+}
+form{
+    background-color: rgb(255, 71, 163);
+    color: #fff;
+}
+fieldset{
+    background-color: rgb(241, 91, 21);
+    color: #fff;
+}
+nav{
+    width: 300px;
+    height: 300px;
+}
+noscript{
+    background-color: blueviolet;
+    color: #fff;
+    
+}
+header{
+    background-color: rgb(43, 226, 89);
+    color: #fff;
+}
+footer{
+    background-color: rgb(43, 61, 226);
+    color: #fff;
+}
+section{
+    background-color: rgb(226, 43, 113);
+    color: #fff;
+}
+ol{
+    background-color: rgb(226, 43, 43);
+    color: #fff;
+}
+ul{
+    background-color: rgb(43, 226, 119);
+    color: #fff;
+}
+li{
+    background-color: #ddd;
+    color: #fff;
+}
+table{
+    background-color: tomato;
+    color: #fff;
+}
+hr{
+    background-color: rgb(255, 71, 163);
+    color: #fff;
+}
+tfoot{
+    background-color: rgb(19, 211, 108);
+    color: #fff;
+    margin-bottom: 100px;
+}
+
+/* List of Block Css End */
+
+

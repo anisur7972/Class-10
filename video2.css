@@ -1,0 +1,52 @@
+/* Menu Css Start  */
+.menu{
+    background:rgba(224, 84, 84, 0.767);
+    width: 60%;
+    margin: auto;
+}
+.menu ul {
+    list-style-type: none;
+}
+.menu ul li{
+    display: inline-block;
+    margin-right: -5px;
+    text-align: center;
+    border-right: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    transition: .5s;
+}
+.menu ul li a {
+    display: inline-block;
+    padding: 20px 36px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    
+}
+.menu ul li:hover a{
+    background-color: rgb(175, 12, 12);
+}
+/* Menu Css End */
+
+/* Use Of background Property Css start */
+h2{
+    text-align: center;
+    background-color: lightcoral;
+    color: #fff;
+    padding: 15px;
+}
+.background-section{
+    background-image: url(./444.png);
+    padding: 200px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;
+}
+p{
+    color: #fff;
+    font-size: 18px;
+    font-family: tahoma;
+    line-height: 30px;
+}
+/* Use Of background Property Css End */
